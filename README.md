@@ -6,4 +6,4 @@ Joint work with J. Hickernell, C. Wong Hickernell, A. Wang, M. Rothrock Wang, an
 * [Connections](https://connections.swellgarfo.com/game/-NxrawBFTmkbtYN28FkO)
 * [Strands](https://customstrandsnyt.com/play/jennyphillip-VerklarteNacht/)
 * [Wordle](https://mywordle.strivemath.com/?word=fogdy)
-* [Mini Crossword](https://downforacross.com/beta/game/5272736-splob)
+* [Mini Crossword](https://crosshare.org/crosswords/C89zbuRiikfzwWvdpjLm/wedding-mini)
